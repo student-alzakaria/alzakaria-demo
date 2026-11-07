@@ -1,4 +1,4 @@
 # alzakaria-demo
 This is My First Git Repository
 <br>
-author-Al Zakaria
+author-Al Zakaria (my name)
